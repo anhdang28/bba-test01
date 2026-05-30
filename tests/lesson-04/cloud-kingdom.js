@@ -1,4 +1,3 @@
-//Cách 1
 let playerName = "Mario";
 let currentLives = 3;
 const coinLevel1 = 25;
